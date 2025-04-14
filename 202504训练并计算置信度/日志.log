@@ -1,0 +1,356 @@
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\python.exe E:/Python/PycharmProject-202412-集成学习/思路1：训练并计算置信度/副本-训练集成学习模型并输出评估数据.py
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+[LightGBM] [Info] Number of positive: 21006, number of negative: 106705
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.308946 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 358743
+[LightGBM] [Info] Number of data points in the train set: 127711, number of used features: 2000
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.164481 -> initscore=-1.625260
+[LightGBM] [Info] Start training from score -1.625260
+model计时:10.262742秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+pred_pro计时:0.069467秒
+pred_lr计时:0.068968秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+[LightGBM] [Info] Number of positive: 21036, number of negative: 106984
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.359394 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 361047
+[LightGBM] [Info] Number of data points in the train set: 128020, number of used features: 2000
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.164318 -> initscore=-1.626444
+[LightGBM] [Info] Start training from score -1.626444
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+model计时:11.841144秒
+pred_pro计时:0.066606秒
+pred_lr计时:0.084240秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+[LightGBM] [Info] Number of positive: 21242, number of negative: 107148
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.360059 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 363275
+[LightGBM] [Info] Number of data points in the train set: 128390, number of used features: 2000
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.165449 -> initscore=-1.618231
+[LightGBM] [Info] Start training from score -1.618231
+model计时:11.444363秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+pred_pro计时:0.074443秒
+pred_lr计时:0.090768秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+[LightGBM] [Info] Number of positive: 20935, number of negative: 107312
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.370877 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 362328
+[LightGBM] [Info] Number of data points in the train set: 128247, number of used features: 2000
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.163240 -> initscore=-1.634318
+[LightGBM] [Info] Start training from score -1.634318
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+model计时:11.824139秒
+pred_pro计时:0.090536秒
+pred_lr计时:0.104775秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+[LightGBM] [Info] Number of positive: 21025, number of negative: 107155
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.370561 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 361696
+[LightGBM] [Info] Number of data points in the train set: 128180, number of used features: 2000
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.164027 -> initscore=-1.628564
+[LightGBM] [Info] Start training from score -1.628564
+model计时:11.578972秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+pred_pro计时:0.085021秒
+pred_lr计时:0.083478秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+[LightGBM] [Info] Number of positive: 21026, number of negative: 106776
+[LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.328628 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[LightGBM] [Info] Total Bins 361913
+[LightGBM] [Info] Number of data points in the train set: 127802, number of used features: 2000
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.164520 -> initscore=-1.624973
+[LightGBM] [Info] Start training from score -1.624973
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+model计时:10.923141秒
+pred_pro计时:0.075066秒
+pred_lr计时:0.081670秒
+
+进程已结束,退出代码0
+
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\python.exe E:/Python/PycharmProject-202412-集成学习/思路1：训练并计算置信度/f3-训练集成学习模型并输出评估数据.py
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+[LightGBM] [Info] Number of positive: 2644, number of negative: 17222
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.064949 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 132128
+[LightGBM] [Info] Number of data points in the train set: 19866, number of used features: 2000
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.133092 -> initscore=-1.873895
+[LightGBM] [Info] Start training from score -1.873895
+model计时:2.817093秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+pred_pro计时:0.073231秒
+pred_lr计时:0.078107秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+[LightGBM] [Info] Number of positive: 2668, number of negative: 17125
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.058086 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 131235
+[LightGBM] [Info] Number of data points in the train set: 19793, number of used features: 2000
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.134795 -> initscore=-1.859210
+[LightGBM] [Info] Start training from score -1.859210
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+model计时:2.881375秒
+pred_pro计时:0.078107秒
+pred_lr计时:0.062485秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+[LightGBM] [Info] Number of positive: 2642, number of negative: 17201
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.065115 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 131103
+[LightGBM] [Info] Number of data points in the train set: 19843, number of used features: 2000
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.133145 -> initscore=-1.873431
+[LightGBM] [Info] Start training from score -1.873431
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+model计时:2.958750秒
+pred_pro计时:0.062485秒
+pred_lr计时:0.088237秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+[LightGBM] [Info] Number of positive: 2652, number of negative: 17211
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.073310 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 131960
+[LightGBM] [Info] Number of data points in the train set: 19863, number of used features: 2000
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.133515 -> initscore=-1.870235
+[LightGBM] [Info] Start training from score -1.870235
+model计时:3.001853秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+pred_pro计时:0.078104秒
+pred_lr计时:0.079540秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+[LightGBM] [Info] Number of positive: 2674, number of negative: 17257
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.065982 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 132863
+[LightGBM] [Info] Number of data points in the train set: 19931, number of used features: 2000
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.134163 -> initscore=-1.864642
+[LightGBM] [Info] Start training from score -1.864642
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+model计时:2.945356秒
+pred_pro计时:0.078107秒
+pred_lr计时:0.095939秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+[LightGBM] [Info] Number of positive: 2665, number of negative: 17229
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.068502 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 132453
+[LightGBM] [Info] Number of data points in the train set: 19894, number of used features: 2000
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.133960 -> initscore=-1.866390
+[LightGBM] [Info] Start training from score -1.866390
+model计时:3.075359秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+pred_pro计时:0.078105秒
+pred_lr计时:0.093777秒
+
+进程已结束,退出代码0
+
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\python.exe E:/Python/PycharmProject-202412-集成学习/思路1：训练并计算置信度/f3-训练集成学习模型并输出评估数据.py
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+[LightGBM] [Info] Number of positive: 4954, number of negative: 21609
+[LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.070724 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[LightGBM] [Info] Total Bins 155207
+[LightGBM] [Info] Number of data points in the train set: 26563, number of used features: 2000
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.186500 -> initscore=-1.472915
+[LightGBM] [Info] Start training from score -1.472915
+model计时:4.012478秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+pred_pro计时:0.077023秒
+pred_lr计时:0.075959秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+[LightGBM] [Info] Number of positive: 4913, number of negative: 21612
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.104504 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 155432
+[LightGBM] [Info] Number of data points in the train set: 26525, number of used features: 2000
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.185221 -> initscore=-1.481364
+[LightGBM] [Info] Start training from score -1.481364
+model计时:3.981822秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+pred_pro计时:0.078108秒
+pred_lr计时:0.093726秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+[LightGBM] [Info] Number of positive: 4943, number of negative: 21518
+[LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.089843 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[LightGBM] [Info] Total Bins 154009
+[LightGBM] [Info] Number of data points in the train set: 26461, number of used features: 2000
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.186803 -> initscore=-1.470917
+[LightGBM] [Info] Start training from score -1.470917
+model计时:4.717083秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+pred_pro计时:0.109352秒
+pred_lr计时:0.156211秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+[LightGBM] [Info] Number of positive: 4962, number of negative: 21520
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.094416 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 155311
+[LightGBM] [Info] Number of data points in the train set: 26482, number of used features: 2000
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.187373 -> initscore=-1.467174
+[LightGBM] [Info] Start training from score -1.467174
+model计时:4.884624秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+pred_pro计时:0.104792秒
+pred_lr计时:0.097147秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+[LightGBM] [Info] Number of positive: 4939, number of negative: 21549
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.098488 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 154694
+[LightGBM] [Info] Number of data points in the train set: 26488, number of used features: 2000
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.186462 -> initscore=-1.473167
+[LightGBM] [Info] Start training from score -1.473167
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+model计时:4.990501秒
+pred_pro计时:0.078837秒
+pred_lr计时:0.078105秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+[LightGBM] [Info] Number of positive: 4939, number of negative: 21607
+[LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.078247 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[LightGBM] [Info] Total Bins 155925
+[LightGBM] [Info] Number of data points in the train set: 26546, number of used features: 2000
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.186054 -> initscore=-1.475854
+[LightGBM] [Info] Start training from score -1.475854
+model计时:4.133521秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+pred_pro计时:0.078114秒
+pred_lr计时:0.072657秒
+
+进程已结束,退出代码0
+
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\python.exe E:/Python/PycharmProject-202412-集成学习/思路1：训练并计算置信度/f3-训练集成学习模型并输出评估数据.py
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+[LightGBM] [Info] Number of positive: 2787, number of negative: 11327
+[LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.049308 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[LightGBM] [Info] Total Bins 102405
+[LightGBM] [Info] Number of data points in the train set: 14114, number of used features: 2000
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.197464 -> initscore=-1.402224
+[LightGBM] [Info] Start training from score -1.402224
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+model计时:2.681173秒
+pred_pro计时:0.078109秒
+pred_lr计时:0.093758秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+[LightGBM] [Info] Number of positive: 2796, number of negative: 11306
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.052768 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 102550
+[LightGBM] [Info] Number of data points in the train set: 14102, number of used features: 2000
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.198270 -> initscore=-1.397144
+[LightGBM] [Info] Start training from score -1.397144
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+model计时:2.614860秒
+pred_pro计时:0.078108秒
+pred_lr计时:0.088214秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+[LightGBM] [Info] Number of positive: 2767, number of negative: 11334
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.047753 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 102404
+[LightGBM] [Info] Number of data points in the train set: 14101, number of used features: 2000
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.196227 -> initscore=-1.410043
+[LightGBM] [Info] Start training from score -1.410043
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+model计时:2.826185秒
+pred_pro计时:0.078106秒
+pred_lr计时:0.078107秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+[LightGBM] [Info] Number of positive: 2802, number of negative: 11313
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.054065 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 102468
+[LightGBM] [Info] Number of data points in the train set: 14115, number of used features: 2000
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.198512 -> initscore=-1.395619
+[LightGBM] [Info] Start training from score -1.395619
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+model计时:2.513853秒
+pred_pro计时:0.084774秒
+pred_lr计时:0.078788秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+[LightGBM] [Info] Number of positive: 2778, number of negative: 11325
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.048224 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 102205
+[LightGBM] [Info] Number of data points in the train set: 14103, number of used features: 2000
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.196979 -> initscore=-1.405281
+[LightGBM] [Info] Start training from score -1.405281
+model计时:2.408541秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+pred_pro计时:0.078102秒
+pred_lr计时:0.078142秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+[LightGBM] [Info] Number of positive: 2795, number of negative: 11320
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.047186 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 102350
+[LightGBM] [Info] Number of data points in the train set: 14115, number of used features: 2000
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.198016 -> initscore=-1.398739
+[LightGBM] [Info] Start training from score -1.398739
+model计时:2.355796秒
+E:\Python\Miniconda3-py3.10.10_23.3.1\envs\2.4-ensemble-learning\lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+pred_pro计时:0.097375秒
+pred_lr计时:0.076769秒
+
+进程已结束,退出代码0
